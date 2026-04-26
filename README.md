@@ -76,7 +76,6 @@ User Input (Job Description)
 ## 🔹 Tech Stack
 
 - **Python**
-- **FastAPI** – Backend API
 - **Streamlit** – Interactive UI
 - **Pandas** – Data handling
 - **Scikit-learn** – Similarity computation
@@ -114,9 +113,6 @@ This helps recruiters understand **why a candidate is shortlisted**.
 ```bash
 # Install dependencies
 pip install -r requirements.txt
-
-# Run backend
-python -m uvicorn app:app --reload
 
 # Run frontend
 python -m streamlit run ui.py
