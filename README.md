@@ -145,7 +145,9 @@ Experience: 0-2 years.
 
 ## 🔹 Demo Video
 
-link
+
+https://youtu.be/bmNIxsZ5SIE
+
 
 ---
 
