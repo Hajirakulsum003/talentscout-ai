@@ -8,7 +8,7 @@ st.title("TalentScout AI")
 jd = st.text_area("Enter Job Description")
 
 if st.button("Run Matching"):
-    df = pd.read_csv("data/candidates.csv")
+    df = pd.read_csv("candidates.csv")
 
     parsed = parse_jd(jd)
     jd_skills = " ".join(parsed["skills"])
